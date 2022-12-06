@@ -1,5 +1,4 @@
 - 👋🏻 Hi, I’m Anushka Dasgupta
-- 🧐 I’m currently learning Computer Vision 
 - 👀 I’m looking to collaborate on projects related to iot, machine learning and digital electronics
 
 <!---
