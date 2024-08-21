@@ -3,7 +3,7 @@
   <hr>
 - <h3>Let's connect</h3>                                                
   <img height="40" width="50" src="https://user-images.githubusercontent.com/39513876/112366216-8cfe7400-8cfe-11eb-8116-7d3dbae20e97.gif">    <img height="40" width="50" src="https://user- 
-  images.githubusercontent.com/39513876/112366216-8cfe7400-8cfe-11eb-8116-7d3dbae20e97.gif"><
+  images.githubusercontent.com/39513876/112366216-8cfe7400-8cfe-11eb-8116-7d3dbae20e97.gif">
   <hr>
 
 
