@@ -1,4 +1,4 @@
-- <h1>Hello, techies, I am Anushka Dasgupta</h1><img height="30" width="30" src="https://user-images.githubusercontent.com/39513876/112366216-8cfe7400-8cfe-11eb-8116-7d3dbae20e97.gif">
+- <h1>Hello, techies, I am Anushka Dasgupta<img height="30" width="30" src="https://user-images.githubusercontent.com/39513876/112366216-8cfe7400-8cfe-11eb-8116-7d3dbae20e97.gif"></h1>
 
 
 
