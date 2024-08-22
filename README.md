@@ -2,7 +2,7 @@
 - <h3>Languages & Tools I have worked on</h3>                                                                                 
   <a href="https://html.com/"><img height="30" width="30" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEc9A_S6BPxCDRp5WjMFEfXrpCu1ya2OO-Lw&s"></a>     
 - <h3>Let's connect</h3>                                                            
-<a href=""><img height="40" width="30" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRokEYt0yyh6uNDKL8uksVLlhZ35laKNQgZ9g&s"></a>
+  <a href=""><img height="40" width="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRokEYt0yyh6uNDKL8uksVLlhZ35laKNQgZ9g&s"></a>
   
 
 
