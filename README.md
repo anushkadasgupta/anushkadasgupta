@@ -8,7 +8,7 @@
   <a href="https://tailwindcss.com/"><img height="30" width="35" src="https://w7.pngwing.com/pngs/293/485/png-transparent-tailwind-css-hd-logo.png"></a>&nbsp;                           
   <a href="https://www.arduino.cc/en/software"><img height="30" width="30" src="https://brandslogos.com/wp-content/uploads/images/large/arduino-logo-1.png"></a>
   <a href="https://code.visualstudio.com/"><img height="30" width="30" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnoirCtiJhhN8Tvo0FJRRd4CInsOXkRX9EbA&s"></a> 
-  <a href="https://www.javascript.com/"><img height="40" width="80" src="https://logos-world.net/wp-content/uploads/2023/02/JavaScript-Logo.png"></a>
+  <a href="https://www.javascript.com/"><img height="40" width="80" src="https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2016/10/raspberry_pi_logo/16166824-1-eng-GB/Raspberry_Pi_logo.jpg"></a>
   <a href="https://www.javascript.com/"><img height="40" width="80" src="https://logos-world.net/wp-content/uploads/2023/02/JavaScript-Logo.png"></a>
   <hr>
 - <h3>Let's connect</h3>                                                            
