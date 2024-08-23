@@ -6,7 +6,7 @@
   <a href="https://react.dev/"><img height="30" width="40" src="https://w7.pngwing.com/pngs/403/269/png-transparent-react-react-native-logos-brands-in-colors-icon-thumbnail.png"></a>
   <a href="https://nextjs.org/"><img height="35" width="80" src="https://cdn.worldvectorlogo.com/logos/next-js.svg"></a>
   <a href="https://tailwindcss.com/"><img height="30" width="35" src="https://w7.pngwing.com/pngs/293/485/png-transparent-tailwind-css-hd-logo.png"></a>&nbsp;                           
-  <a href="https://www.javascript.com/"><img height="30" width="30" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuER1tOoBap4qZ8V7OUsbf-quqFfEjj3Jnzg&s"></a>
+  <a href="https://www.javascript.com/"><img height="30" width="30" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnoirCtiJhhN8Tvo0FJRRd4CInsOXkRX9EbA&s"></a>
   <hr>
 - <h3>Let's connect</h3>                                                            
   <a href="https://in.linkedin.com/in/anudasgupta00"><img height="40" width="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRokEYt0yyh6uNDKL8uksVLlhZ35laKNQgZ9g&s"></a>     <a href="https://www.instagram.com/_anushkadasgupta_"><img height="40" width="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjkllAaLITJDTdTY575IzXot87Y7qV8cSz7A&s"></a>      
