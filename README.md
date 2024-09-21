@@ -3,9 +3,6 @@
   <a href="https://html.com/"><img height="40" width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png"></a>   
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img height="40" width="80" src="https://1000logos.net/wp-content/uploads/2020/09/CSS-Logo.png"></a>
   <a href="https://www.javascript.com/"><img height="40" width="80" src="https://logos-world.net/wp-content/uploads/2023/02/JavaScript-Logo.png"></a>
-  <a href="https://react.dev/"><img height="30" width="35" src="https://w7.pngwing.com/pngs/403/269/png-transparent-react-react-native-logos-brands-in-colors-icon-thumbnail.png"></a>
-  <a href="https://nextjs.org/"><img height="35" width="80" src="https://cdn.worldvectorlogo.com/logos/next-js.svg"></a>
-  <a href="https://tailwindcss.com/"><img height="30" width="35" src="https://w7.pngwing.com/pngs/293/485/png-transparent-tailwind-css-hd-logo.png"></a>&nbsp;                           
   <a href="https://www.arduino.cc/en/software"><img height="35" width="35" src="https://brandslogos.com/wp-content/uploads/images/large/arduino-logo-1.png"></a>
   <hr>
 - <h3>Let's connect</h3>                                                            
