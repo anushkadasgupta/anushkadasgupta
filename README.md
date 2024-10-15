@@ -5,10 +5,12 @@
 <h3>Let's connect:</h3>                      
 <div style="display: flex; justify-content: center; align-items: center;">
     <img height="300" width="350" src="https://media.tenor.com/ROOsgyUhs6IAAAAM/cup-of-coffee.gif" style="margin-top: 10px;">
-    <a href="https://in.linkedin.com/in/anudasgupta00"><img height="40" width="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRokEYt0yyh6uNDKL8uksVLlhZ35laKNQgZ9g&s" style="margin-top: 10px;"></a>
-    <a href="https://www.instagram.com/_anushkadasgupta_/"><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg" style="margin-top: 10px;"></a>
-    <a href="https://www.facebook.com/profile.php?id=100086013206871"><img height="40" width="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiXN9xSEe8unzPBEQOeAKXd9Q55efGHGB9BA&s" style="margin-top: 10px;"></a>
-    <a href="https://twitter.com/anushka_dg"><img height="40" width="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4302-ehoAycWH9UqxPU6g994o94YPHj01Mg&s" style="vertical-align: middle;"></a>
+    | Icon | Link |
+|---|---|
+| <a href="https://in.linkedin.com/in/anudasgupta00"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRokEYt0yyh6uNDKL8uksVLlhZ35laKNQgZ9g&s" width="40" height="40" alt="LinkedIn"></a> | LinkedIn |
+| <a href="https://www.instagram.com/_anushkadasgupta_/"><img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg" width="40" height="40" alt="Instagram"></a> | Instagram |
+| <a href="https://www.facebook.com/profile.php?id=100086013206871"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiXN9xSEe8unzPBEQOeAKXd9Q55efGHGB9BA&s" width="40" height="40" alt="Facebook"></a> | Facebook |
+| <a href="https://twitter.com/anushka_dg"><img src="https://encrypted-tbn0.gstatic.com/link/to/your/twitter/icon.png" width="40" height="40" alt="Twitter"></a> | Twitter |
 </div>
 
 
