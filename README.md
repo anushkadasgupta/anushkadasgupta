@@ -5,7 +5,7 @@
 <h3>Let's connect:</h3>                      
 <div style="display: flex; align-items: center;">
     <img height="300" width="350" src="https://media.tenor.com/ROOsgyUhs6IAAAAM/cup-of-coffee.gif" style="margin-top: 10px;">
-    <div style="display: flex; align-items: center; margin-left: 10px;">
+    <div style="display: flex; align-items: center; margin-bottom: 100px;">
         <a href="https://in.linkedin.com/in/anudasgupta00"><img height="40" width="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRokEYt0yyh6uNDKL8uksVLlhZ35laKNQgZ9g&s" style="margin-top: 10px;"></a>
         <a href="https://www.instagram.com/_anushkadasgupta_/"><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg" style="margin-top: 10px;"></a>
         <a href="https://www.facebook.com/profile.php?id=100086013206871"><img height="40" width="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiXN9xSEe8unzPBEQOeAKXd9Q55efGHGB9BA&s" style="margin-top: 10px;"></a>
